@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8Ls/5xfWUU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XIOMA\\projects\\poo\\examen01-2025-POO\\examen01-POO.Api\\examen01-POO.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XIOMA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\XIOMA\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
